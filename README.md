@@ -1,1 +1,1 @@
-https://nurmes.github.io/rsschool-cv/cv
+<https://nurmes.github.io/rsschool-cv/cv>
